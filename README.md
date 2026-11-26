@@ -201,7 +201,7 @@ Encryption options are available, including AES-256 end-to-end encryption for su
 
 ### Is this a command-line application?
 
-No. It is designed as a graphical desktop application. You can manage your clipboard through its visual interface without needing to use command-line commands.
+No. It is designed as a graphical desktop application. You can manage your clipboard through its visual interface without needing to use command-line tools.
 
 ### Who should use a clipboard manager?
 
