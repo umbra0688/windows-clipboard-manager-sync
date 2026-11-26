@@ -6,19 +6,19 @@ WIP
 
 #### Bug Fixes
 
-- Fix: Incorrect frequenent syncing error message toast when syncing files
+- Fix: Incorrect frequent syncing error message toast when syncing files
 
 ## 0.1.22
 
 #### Features
 
-- 🎉 Drag and Drop ( Desktop and Ipad Os, Android will be coming in upcoming updates )
+- 🎉 Drag and Drop ( Desktop and iPadOS, Android will be coming in upcoming updates )
 - 🎉 Customization and Themings
-- 🎉 Advance filters by type, sub types, date range, sorting, etc. ( Feature request )
+- 🎉 Advanced filters by type, sub types, date range, sorting, etc. ( Feature request )
 - 🎉 New and polished user interface. ( Feature request )
-- 💪 Performance improvements when large amount of clips are synced and decrypted.
+- 💪 Performance improvements when a large amount of clips are synced and decrypted.
 - Toggling clipboard by clicking on the menu icon/tray icon. ( Feature request )
-- We fixed alot of bugs which you might have experienced.
+- We fixed a lot of bugs which you might have experienced.
 
 #### Bug Fixes and Improvements
 
@@ -54,7 +54,7 @@ Enhancements Based on our Discord community and Feedback from users.
 
 #### Android ( Bug Fixes )
 
-- Fix the issue where forget password link sent on email was not working.
+- Fix the issue where the forgot password link sent by email was not working.
 
 #### MacOS ( Intel • Critical Update )
 
